@@ -1,0 +1,56 @@
+Uri: https://sadartnajd.com/
+File Name: D:\Private\sadartnajd.com\index.htm
+Content Type: text/html
+
+Uri: https://use.fontawesome.com/releases/v5.14.0/css/all.css
+File Name: D:\Private\sadartnajd.com\releases\v5.14.0\css\all.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Poppins&family=Cairo&display=swap
+File Name: D:\Private\sadartnajd.com\css2.css
+Content Type: text/css
+
+Uri: https://sadartnajd.com/css/normalize.css
+File Name: D:\Private\sadartnajd.com\css\normalize.css
+Content Type: text/css
+
+Uri: https://sadartnajd.com/css/style.css
+File Name: D:\Private\sadartnajd.com\css\style.css
+Content Type: text/css
+
+Uri: https://sadartnajd.com/images/favicon.png
+File Name: D:\Private\sadartnajd.com\images\favicon.png
+Content Type: image/png
+
+Uri: https://www.instagram.com/SadartNajd/
+File Name: D:\Private\sadartnajd.com\SadartNajd\index.htm
+Content Type: text/html
+
+Uri: https://sadartnajd.com/images/logo.png
+File Name: D:\Private\sadartnajd.com\images\logo.png
+Content Type: image/png
+
+Uri: https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14484.230618972066!2d46.81762929737581!3d24.82770186495129!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e2effe52a75f045:0x89d59b9c38b0146a!2z2YXYudix2LYg2LXYr9in2LHYqSDZhtis2K8g2YTZhNiz2YrYp9ix2KfYqiDZiNiz2K_Yp9ivINin2YTZgtix2LY!5e0!3m2!1sen!2seg!4v1611087427993!5m2!1sen!2seg
+File Name: D:\Private\sadartnajd.com\maps\embed.html
+Content Type: text/html
+
+Uri: https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js
+File Name: D:\Private\sadartnajd.com\ajax\libs\jquery\3.5.1\jquery.min.js
+Content Type: text/javascript
+
+Uri: https://sadartnajd.com/js/script.js
+File Name: D:\Private\sadartnajd.com\js\script.js
+Content Type: application/javascript
+
+Uri: https://sadartnajd.com/images/background.jpg
+File Name: D:\Private\sadartnajd.com\images\background.jpg
+Content Type: image/jpeg
+
+Uri: https://sadartnajd.com/images/pattern.svg
+File Name: D:\Private\sadartnajd.com\images\pattern.svg
+Content Type: image/svg+xml
+
+Uri: https://api.whatsapp.com/send/?phone=%2B966560805888&text&app_absent=0
+File Name: D:\Private\sadartnajd.com\send\index.htm
+Content Type: text/html
+
